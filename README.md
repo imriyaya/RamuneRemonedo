@@ -1,2 +1,2 @@
 ![out](https://user-images.githubusercontent.com/99951138/181506462-7f95649d-adae-4eb8-91d6-f8ec4102a439.gif)
-基本的に、コードは公開しません。 ほとんどのリポジトリ、ぷらいべーとです
+
